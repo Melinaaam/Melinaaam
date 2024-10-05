@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" heigtht= "200" src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/animiertes-gif-von-online-umwandeln-de-2.gif" alt="Hi, I'm Melina 👋 ">
+  <img src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/accueil_git_Melina.gif" alt="Hi, I'm Melina 👋 ">
 </p>
 
 <!--
