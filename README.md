@@ -7,7 +7,7 @@ ___
 ### :fire: My stats :fire: 
 <div style="display:flex;justify-content:space-evenly;align-items:baseline;">
   
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-white&hide_border=true' />
 
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
