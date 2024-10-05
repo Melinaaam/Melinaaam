@@ -5,7 +5,7 @@
 ___
 
 ### :fire: My stats :fire: 
-<div style="display:flex;justify-content:center;align-items:center;flex-direction:row;">
+<div style="display:flex;justify-content:space-around;align-items:baseline;flex-direction:row;">
   
 <img width=300 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' />
 
