@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" width="700" src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/accueil_git_Melina.gif" alt="Hi, I'm Melina 👋 ">
+  <img src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/accueil_git_Melina.gif" alt="Hi, I'm Melina 👋 ">
 </p>
 
 <!--
