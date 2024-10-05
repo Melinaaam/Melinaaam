@@ -4,7 +4,9 @@
 
 ___
 
-### :fire: My stats :fire: :
+### :fire: My stats :fire: 
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?Melinaaam=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=tr
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melinaaam&theme=dark&background=000000)](https://git.io/streak-stats)
 
