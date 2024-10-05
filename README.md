@@ -5,14 +5,12 @@
 ___
 
 ### :fire: My stats :fire: 
-<div style="display:flex;justify-content:space-around;align-items:baseline;flex-direction:row;">
-  
-<img width=300 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' />
-
-<img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-
-</div>
-
+<table>
+  <tr>
+    <td valign="top"><img width=300 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' /></td>
+    <td valign="top"><img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /></td>
+  </tr>
+</table>
 ___
 <!--
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
