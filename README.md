@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img width="300" heigtht= "200" src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/animiertes-gif-von-online-umwandeln-de-2.gif" alt="Hi, I'm Melina 👋 ">
+</p>
 
 <!--
 **Melinaaam/Melinaaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
