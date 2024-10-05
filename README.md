@@ -8,9 +8,8 @@ ___
 
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melinaaam&theme=vue-dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Melinaaam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ___
 <!--
