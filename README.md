@@ -36,16 +36,16 @@ ___
 
 ### Completed
 
-- [![42 Project - Philosophers](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/votre_compte_github/philosophers)
-  - Simulation du problème des philosophes (threads, mutex, etc.)
+- [![42 Project - Philosophers](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/philosophers)
+  - A simulation of the dining philosophers problem (threads, mutexes, etc.)
 
-- [![42 Project - Minishell](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/votre_compte_github/minishell)
-  - Shell minimaliste (gestion des processus, parsing, etc.)
+- [![42 Project - Minishell](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/minishell)
+  - A minimalist shell (process management, parsing, etc.)
 
 ### In progress
 
-- [![42 Project - CPP Modules](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/votre_compte_github/cpp_modules)
-  - Modules d’apprentissage C++ (classes, héritage, templates, etc.)
+- [![42 Project - CPP Modules](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/YourGitHubUsername/cpp_modules)
+  - Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
 ---
 
