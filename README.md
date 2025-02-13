@@ -38,40 +38,55 @@ ___
 [![CPP Modules - In Progress](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/melinaaam/cpp_modules)<br>
   Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
-## 42 Curriculum Progress
+## 42 Projects — Overall Progress
 
-[![42 Curriculum - 60%](https://progress-bar.dev/60/?title=42%20Curriculum&width=300&color=blue)](https://github.com/melinaaam/)
+<div style="width:100%; max-width:600px; border:1px solid #ccc; background-color:#f7f7f7; height: 30px; margin:0 auto; font-size:12px; font-weight:bold;">
 
+  <!-- Minishell -->
+  <div style="width:11.11%; float:left; background:#3e8e41; text-align:center; line-height:30px;">
+    <a href="https://github.com/Les-Choubidous/Minishell_42" style="color:#fff; text-decoration:none;">Minishell</a>
+  </div>
 
----
+  <!-- Philosophers -->
+  <div style="width:11.11%; float:left; background:#2b5797; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/philosophers" style="color:#fff; text-decoration:none;">Philosophers</a>
+  </div>
 
-### Completed
-[![Minishell - Completed](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)<br>
-  A minimalist shell with process management, parsing, etc.
+  <!-- Pipex -->
+  <div style="width:11.11%; float:left; background:#b366ff; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/pipex" style="color:#fff; text-decoration:none;">Pipex</a>
+  </div>
 
-[![Philosophers - Completed](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/philosophers)<br>
-  A simulation of the dining philosophers problem (threads, mutexes, etc.)
+  <!-- So Long -->
+  <div style="width:11.11%; float:left; background:#e67e22; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/so_long" style="color:#fff; text-decoration:none;">So Long</a>
+  </div>
 
-[![Pipex - Completed](https://img.shields.io/badge/Pipex-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/pipex)<br>
-  A project emulating Unix pipes to chain commands together.
+  <!-- Push Swap -->
+  <div style="width:11.11%; float:left; background:#d35400; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/push_swap" style="color:#fff; text-decoration:none;">Push Swap</a>
+  </div>
 
-[![So Long - Completed](https://img.shields.io/badge/So%20Long-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/so_long)<br>
-  A small 2D game project using a graphics library.
+  <!-- Get Next Line -->
+  <div style="width:11.11%; float:left; background:#c0392b; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/get_next_line" style="color:#fff; text-decoration:none;">GNL</a>
+  </div>
 
-[![Push Swap - Completed](https://img.shields.io/badge/Push%20Swap-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/push_swap)<br>
-  Sorting algorithms optimized for a limited instruction set.
+  <!-- ft_printf -->
+  <div style="width:11.11%; float:left; background:#27ae60; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/ft_printf" style="color:#fff; text-decoration:none;">ft_printf</a>
+  </div>
 
-[![Get Next Line - Completed](https://img.shields.io/badge/Get%20Next%20Line-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/get_next_line)
-  A function to read from file descriptors one line at a time.<br>
+  <!-- Born2beroot -->
+  <div style="width:11.11%; float:left; background:#2980b9; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/born2beroot" style="color:#fff; text-decoration:none;">Born2beroot</a>
+  </div>
 
-[![ft_printf - Completed](https://img.shields.io/badge/ft__printf-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/ft_printf)<br>
-  Reimplementation of `printf` in C.
-
-[![Born2beroot - Completed](https://img.shields.io/badge/Born2beroot-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/born2beroot)<br>
-  A system administration project focusing on virtualization and security.
-
-[![Libft - Completed](https://img.shields.io/badge/Libft-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/libft)<br>
-  A custom C library replicating standard functions (libft).
+  <!-- Libft -->
+  <div style="width:11.11%; float:left; background:#8e44ad; text-align:center; line-height:30px;">
+    <a href="https://github.com/melinaaam/libft" style="color:#fff; text-decoration:none;">Libft</a>
+  </div>
+</div>
 
 
 ## 💻 Working on:
