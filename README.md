@@ -36,16 +36,16 @@ ___
 ### In progress
 
 [![42 Project - CPP Modules](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/YourGitHubUsername/cpp_modules)
-  - Exploring advanced C++ features (classes, inheritance, templates, etc.)
+ Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
 
 ### Completed
 
 [![42 Project - Philosophers](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/philosophers)
-  - A simulation of the dining philosophers problem (threads, mutexes, etc.)
+  A simulation of the dining philosophers problem (threads, mutexes, etc.)
 
 [![42 Project - Minishell](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)
-  - A minimalist shell (process management, parsing, etc.)
+  A minimalist shell (process management, parsing, etc.)
 
 ---
 
