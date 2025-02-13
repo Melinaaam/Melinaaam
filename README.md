@@ -4,21 +4,18 @@
   alt="Hi, I'm Melina 👋 "/>
 </p>
 
-<!-- Titre ou phrase d'accroche -->
-<h3 align="center">Hello, I'm Melina Motylewski</h3>
-<p align="center">A 42 Paris Student</p>
-
 <!-- Liens vers Gmail & LinkedIn avec icônes -->
+
 <p align="center">
+  <!-- Icône LinkedIn -->
+  <a href="https://www.linkedin.com/in/votre-lien-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <!-- Icône Gmail -->
   <a href="mailto:mmo.melina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-  <!-- Icône LinkedIn -->
-  <a href="https://www.linkedin.com/in/votre-lien-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </p>
 
 ___
