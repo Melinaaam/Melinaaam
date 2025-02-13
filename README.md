@@ -39,8 +39,6 @@ ___
   Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
 
----
-
 ### Completed
 [![Minishell - Completed](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)<br>
   A minimalist shell with process management, parsing, etc.
@@ -69,7 +67,7 @@ ___
 [![Libft - Completed](https://img.shields.io/badge/Libft-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/libft)<br>
   A custom C library replicating standard functions (libft).
 
-
+---
 ## 💻 Working on:
 
 <p>
