@@ -29,7 +29,7 @@ ___
   <img src="https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
----
+
 
 ## 🏆 42 Projects
 
@@ -38,53 +38,80 @@ ___
 [![CPP Modules - In Progress](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/melinaaam/cpp_modules)<br>
   Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
-## 42 Projects — Overall Progress
+<h2>42 Projects — Overall Progress</h2>
 
-<div style="width:100%; max-width:600px; border:1px solid #ccc; background-color:#f7f7f7; height: 30px; margin:0 auto; font-size:12px; font-weight:bold;">
+<!-- Conteneur principal -->
+<div style="
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  max-width: 600px;
+  border: 1px solid #ccc;
+  background-color: #f7f7f7;
+  height: 30px;
+  margin-bottom: 20px;">
 
   <!-- Minishell -->
-  <div style="width:11.11%; float:left; background:#3e8e41; text-align:center; line-height:30px;">
-    <a href="https://github.com/Les-Choubidous/Minishell_42" style="color:#fff; text-decoration:none;">Minishell</a>
+  <div style="flex: 1; background: #3e8e41; text-align: center; line-height: 30px;">
+    <a href="https://github.com/Les-Choubidous/Minishell_42" style="color: #fff; text-decoration: none;">
+      Minishell
+    </a>
   </div>
 
   <!-- Philosophers -->
-  <div style="width:11.11%; float:left; background:#2b5797; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/philosophers" style="color:#fff; text-decoration:none;">Philosophers</a>
+  <div style="flex: 1; background: #2b5797; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/philosophers" style="color: #fff; text-decoration: none;">
+      Philosophers
+    </a>
   </div>
 
   <!-- Pipex -->
-  <div style="width:11.11%; float:left; background:#b366ff; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/pipex" style="color:#fff; text-decoration:none;">Pipex</a>
+  <div style="flex: 1; background: #b366ff; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/pipex" style="color: #fff; text-decoration: none;">
+      Pipex
+    </a>
   </div>
 
   <!-- So Long -->
-  <div style="width:11.11%; float:left; background:#e67e22; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/so_long" style="color:#fff; text-decoration:none;">So Long</a>
+  <div style="flex: 1; background: #e67e22; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/so_long" style="color: #fff; text-decoration: none;">
+      So Long
+    </a>
   </div>
 
   <!-- Push Swap -->
-  <div style="width:11.11%; float:left; background:#d35400; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/push_swap" style="color:#fff; text-decoration:none;">Push Swap</a>
+  <div style="flex: 1; background: #d35400; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/push_swap" style="color: #fff; text-decoration: none;">
+      Push Swap
+    </a>
   </div>
 
-  <!-- Get Next Line -->
-  <div style="width:11.11%; float:left; background:#c0392b; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/get_next_line" style="color:#fff; text-decoration:none;">GNL</a>
+  <!-- GNL -->
+  <div style="flex: 1; background: #c0392b; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/get_next_line" style="color: #fff; text-decoration: none;">
+      GNL
+    </a>
   </div>
 
   <!-- ft_printf -->
-  <div style="width:11.11%; float:left; background:#27ae60; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/ft_printf" style="color:#fff; text-decoration:none;">ft_printf</a>
+  <div style="flex: 1; background: #27ae60; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/ft_printf" style="color: #fff; text-decoration: none;">
+      ft_printf
+    </a>
   </div>
 
   <!-- Born2beroot -->
-  <div style="width:11.11%; float:left; background:#2980b9; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/born2beroot" style="color:#fff; text-decoration:none;">Born2beroot</a>
+  <div style="flex: 1; background: #2980b9; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/born2beroot" style="color: #fff; text-decoration: none;">
+      Born2beroot
+    </a>
   </div>
 
   <!-- Libft -->
-  <div style="width:11.11%; float:left; background:#8e44ad; text-align:center; line-height:30px;">
-    <a href="https://github.com/melinaaam/libft" style="color:#fff; text-decoration:none;">Libft</a>
+  <div style="flex: 1; background: #8e44ad; text-align: center; line-height: 30px;">
+    <a href="https://github.com/melinaaam/libft" style="color: #fff; text-decoration: none;">
+      Libft
+    </a>
   </div>
 </div>
 
@@ -99,7 +126,7 @@ ___
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
