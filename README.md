@@ -10,9 +10,7 @@
   <!-- Icône Gmail -->
   <a href="mailto:mmo.melina@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" style="margin-right: 10px;" />
-  </a>
-</p>
-<p align="center">
+  </a> </a>
   <!-- Icône LinkedIn -->
   <a href="https://www.linkedin.com/in/votre-lien-linkedin">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" style="margin-left: 10px;" />
