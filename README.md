@@ -12,8 +12,6 @@
 
 - :seedling: Exploring low-level problem solving and advanced code optimization techniques.
 
-- :zap: In my free time, I practice the whole <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20"/> ecosystem, from data structures to multithreading.
-
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melina-motylewski/)
 
 
