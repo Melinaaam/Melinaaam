@@ -20,12 +20,8 @@ ___
   <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <!-- Git -->
@@ -72,7 +68,7 @@ ___
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreIdentifiantGitHub&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melinaaam&layout=compact&theme=dark"
     alt="Most Used Languages"
     width="400px"
   />
