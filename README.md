@@ -4,10 +4,9 @@
 
 ___
 
-### :fire: My stats :fire: 
+### :fire: My stats :fire:
 <table>
   <tr>
-    <td valign="top"><img width=300 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' /></td>
     <td valign="top"><img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /></td>
   </tr>
 </table>
