@@ -1,21 +1,17 @@
-<!-- Introduction / Banner -->
 <p align="center">
-  <img
-    src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/acc_git.gif"
-    alt="Hi, I'm Melina 👋"
-  />
+  <img src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/acc_git.gif"
+  alt="Hi, I'm Melina 👋 "/>
 </p>
 
 ---
 
-<!-- Présentation rapide -->
-- :telescope: I’m currently a 42 Paris student, focusing on C-based system programming and concurrency.<br />
-- :seedling: Exploring low-level problem solving and advanced code optimization techniques.<br />
-- :mailbox: How to reach me:
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melina-motylewski/)
+- :telescope: I’m currently a 42 Paris student, focusing on C-based system programming and concurrency.
 
----
+- :seedling: Exploring low-level problem solving and advanced code optimization techniques.
 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melina-motylewski/)
+
+___
 ## Tech
 
 <p align="left">
@@ -26,7 +22,7 @@
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <!-- Figma -->
@@ -38,93 +34,48 @@
 ## 🏆 42 Projects
 
 ### In Progress
-[![CPP Modules - In Progress](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/melinaaam/cpp_modules)
-Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
-<h2>Overall Progress</h2>
+[![CPP Modules - In Progress](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/melinaaam/cpp_modules)<br>
+  Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
-<div style="
-  display: flex;
-  flex-wrap: nowrap;
-  width: 100%;
-  max-width: 600px;
-  border: 1px solid #ccc;
-  background-color: #f7f7f7;
-  height: 30px;
-  margin-bottom: 20px;
-">
-
-  <!-- Minishell -->
-  <div style="flex: 1; background: #3e8e41; text-align: center; line-height: 30px;">
-    <a href="https://github.com/Les-Choubidous/Minishell_42" style="color: #fff; text-decoration: none;">
-      Minishell
-    </a>
-  </div>
-
-  <!-- Philosophers -->
-  <div style="flex: 1; background: #2b5797; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/philosophers" style="color: #fff; text-decoration: none;">
-      Philosophers
-    </a>
-  </div>
-
-  <!-- Pipex -->
-  <div style="flex: 1; background: #b366ff; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/pipex" style="color: #fff; text-decoration: none;">
-      Pipex
-    </a>
-  </div>
-
-  <!-- So Long -->
-  <div style="flex: 1; background: #e67e22; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/so_long" style="color: #fff; text-decoration: none;">
-      So Long
-    </a>
-  </div>
-
-  <!-- Push Swap -->
-  <div style="flex: 1; background: #d35400; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/push_swap" style="color: #fff; text-decoration: none;">
-      Push Swap
-    </a>
-  </div>
-
-  <!-- GNL -->
-  <div style="flex: 1; background: #c0392b; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/get_next_line" style="color: #fff; text-decoration: none;">
-      GNL
-    </a>
-  </div>
-
-  <!-- ft_printf -->
-  <div style="flex: 1; background: #27ae60; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/ft_printf" style="color: #fff; text-decoration: none;">
-      ft_printf
-    </a>
-  </div>
-
-  <!-- Born2beroot -->
-  <div style="flex: 1; background: #2980b9; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/born2beroot" style="color: #fff; text-decoration: none;">
-      Born2beroot
-    </a>
-  </div>
-
-  <!-- Libft -->
-  <div style="flex: 1; background: #8e44ad; text-align: center; line-height: 30px;">
-    <a href="https://github.com/melinaaam/libft" style="color: #fff; text-decoration: none;">
-      Libft
-    </a>
-  </div>
-</div>
 
 ---
+
+### Completed
+[![Minishell - Completed](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)<br>
+  A minimalist shell with process management, parsing, etc.
+
+[![Philosophers - Completed](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/philosophers)<br>
+  A simulation of the dining philosophers problem (threads, mutexes, etc.)
+
+[![Pipex - Completed](https://img.shields.io/badge/Pipex-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/pipex)<br>
+  A project emulating Unix pipes to chain commands together.
+
+[![So Long - Completed](https://img.shields.io/badge/So%20Long-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/so_long)<br>
+  A small 2D game project using a graphics library.
+
+[![Push Swap - Completed](https://img.shields.io/badge/Push%20Swap-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/push_swap)<br>
+  Sorting algorithms optimized for a limited instruction set.
+
+[![Get Next Line - Completed](https://img.shields.io/badge/Get%20Next%20Line-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/get_next_line)
+  A function to read from file descriptors one line at a time.<br>
+
+[![ft_printf - Completed](https://img.shields.io/badge/ft__printf-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/ft_printf)<br>
+  Reimplementation of `printf` in C.
+
+[![Born2beroot - Completed](https://img.shields.io/badge/Born2beroot-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/born2beroot)<br>
+  A system administration project focusing on virtualization and security.
+
+[![Libft - Completed](https://img.shields.io/badge/Libft-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/libft)<br>
+  A custom C library replicating standard functions (libft).
+
 
 ## 💻 Working on:
 
 <p>
   <!-- macOS -->
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+
   <!-- Ubuntu -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
@@ -140,3 +91,5 @@ Exploring advanced C++ features (classes, inheritance, templates, etc.)
     width="400px"
   />
 </p>
+
+
