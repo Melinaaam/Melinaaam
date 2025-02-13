@@ -4,6 +4,13 @@
 
 ___
 
+## Contact
+
+| Where  | How  |
+| --- | --- |
+| <p align="center"> <img src="https://skillicons.dev/icons?i=gmail" /></p> | mmo.melina@gmail.com |
+| <p align="center"> <img src="https://skillicons.dev/icons?i=linkedin" /></p> | [Melina Motylezski](hhttps://www.linkedin.com/in/melina-motylewski)|
+
 ### :fire: My stats :fire:
 <table>
   <tr>
