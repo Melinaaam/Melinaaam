@@ -44,8 +44,8 @@ ___
 
 ### In progress
 
-- [![42 Project - ft_services](https://img.shields.io/badge/ft__services-In%20Progress-blue?style=for-the-badge)](https://github.com/votre_compte_github/ft_services)
-  - Projet de containers Docker et Kubernetes.
+- [![42 Project - Net_pratice](https://img.shields.io/badge/ft__services-In%20Progress-blue?style=for-the-badge)]
+  - Reseaux
 
 - [![42 Project - CPP Modules](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/votre_compte_github/cpp_modules)
   - Modules d’apprentissage C++ (classes, héritage, templates, etc.)
