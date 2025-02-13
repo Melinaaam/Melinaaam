@@ -16,11 +16,11 @@
 
 ___
 
-### :fire: My stats :fire:
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30px" />
 
+### :fire: My stats :fire:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30px" />
 </h1>
 
