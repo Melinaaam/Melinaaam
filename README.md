@@ -1,4 +1,3 @@
-<!-- Bannière ou image principale -->
 <p align="center">
   <img src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/acc_git.gif"
   alt="Hi, I'm Melina 👋 "/>
@@ -36,10 +35,10 @@ ___
 
 ### Completed
 
-- [![42 Project - Philosophers](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/philosophers)
+- [![42 Project - Philosophers](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/philosophers)
   - A simulation of the dining philosophers problem (threads, mutexes, etc.)
 
-- [![42 Project - Minishell](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/minishell)
+- [![42 Project - Minishell](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)
   - A minimalist shell (process management, parsing, etc.)
 
 ### In progress
