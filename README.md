@@ -6,7 +6,7 @@
 
 <!-- Liens vers Gmail & LinkedIn avec icônes -->
 
-<p align="center">
+<p align="left">
   <!-- Icône Gmail -->
   <a href="mailto:mmo.melina@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" style="margin-right: 10px;" />
