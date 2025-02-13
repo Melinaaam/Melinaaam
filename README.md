@@ -31,23 +31,44 @@ ___
 
 ---
 
-## 🏆 Projets 42
+## 🏆 42 Projects
 
-### In progress
+### In Progress
 
-[![42 Project - CPP Modules](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/YourGitHubUsername/cpp_modules)
- Exploring advanced C++ features (classes, inheritance, templates, etc.)
+- [![CPP Modules - In Progress](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/melinaaam/cpp_modules)
+  Exploring advanced C++ features (classes, inheritance, templates, etc.)
 
+---
 
 ### Completed
 
-[![42 Project - Philosophers](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/philosophers)
+- [![Libft - Completed](https://img.shields.io/badge/Libft-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/libft)
+  A custom C library replicating standard functions (libft).
+
+- [![Get Next Line - Completed](https://img.shields.io/badge/Get%20Next%20Line-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/get_next_line)
+  A function to read from file descriptors one line at a time.
+
+- [![ft_printf - Completed](https://img.shields.io/badge/ft__printf-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/ft_printf)
+  Reimplementation of `printf` in C.
+
+- [![Born2beroot - Completed](https://img.shields.io/badge/Born2beroot-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/born2beroot)
+  A system administration project focusing on virtualization and security.
+
+- [![Push Swap - Completed](https://img.shields.io/badge/Push%20Swap-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/push_swap)
+  Sorting algorithms optimized for a limited instruction set.
+
+- [![Pipex - Completed](https://img.shields.io/badge/Pipex-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/pipex)
+  A project emulating Unix pipes to chain commands together.
+
+- [![So Long - Completed](https://img.shields.io/badge/So%20Long-Completed-brightgreen?style=for-the-badge)](https://github.com/YourGitHubUsername/so_long)
+  A small 2D game project using a graphics library.
+
+- [![Philosophers - Completed](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/philosophers)
   A simulation of the dining philosophers problem (threads, mutexes, etc.)
 
-[![42 Project - Minishell](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)
-  A minimalist shell (process management, parsing, etc.)
+- [![Minishell - Completed](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)
+  A minimalist shell with process management, parsing, etc.
 
----
 
 ## 💻 Working on:
 
