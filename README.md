@@ -2,14 +2,10 @@
   <img src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/acc_git.gif" alt="Hi, I'm Melina 👋 ">
 </p>
 
-___
 
-## Contact
-
-| Where  | How  |
-| --- | --- |
 | <p align="center"> <img src="https://skillicons.dev/icons?i=gmail" /></p> | mmo.melina@gmail.com |
-| <p align="center"> <img src="https://skillicons.dev/icons?i=linkedin" /></p> | [Melina Motylezski](hhttps://www.linkedin.com/in/melina-motylewski)|
+| <p align="center"> <img src="https://skillicons.dev/icons?i=linkedin" /></p> | [Melina Motylezski]()|
+
 
 ### :fire: My stats :fire:
 <table>
