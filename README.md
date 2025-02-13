@@ -31,7 +31,7 @@ ___
   <img src="https://github-readme-stats.vercel.app/api?username=melinaaam&show_icons=true&theme=radical" alt="Stats GitHub" height="180em" style="margin-right: 30px;" />
 
   <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memotyle&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melinaaam&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em" />
 </p>
 
 
