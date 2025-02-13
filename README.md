@@ -1,15 +1,32 @@
+<!-- Bannière ou image principale -->
 <p align="center">
-  <img src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/acc_git.gif" alt="Hi, I'm Melina 👋 ">
+  <img src="https://github.com/Melinaaam/Melinaaam/blob/main/imgs/acc_git.gif"
+  alt="Hi, I'm Melina 👋 "/>
 </p>
 
+<!-- Titre ou phrase d'accroche -->
+<h3 align="center">Hello, I'm Melina Motylewski</h3>
+<p align="center">A 42 Paris Student</p>
 
-| <p align="center"> <img src="https://skillicons.dev/icons?i=gmail" /></p> | mmo.melina@gmail.com |
-| <p align="center"> <img src="https://skillicons.dev/icons?i=linkedin" /></p> | [Melina Motylezski]()|
+<!-- Liens vers Gmail & LinkedIn avec icônes -->
+<p align="center">
+  <!-- Icône Gmail -->
+  <a href="mailto:mmo.melina@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
+  <!-- Icône LinkedIn -->
+  <a href="https://www.linkedin.com/in/votre-lien-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+___
 
 ### :fire: My stats :fire:
 <table>
   <tr>
+    <td valign="top"><img width=300 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' /></td>
     <td valign="top"><img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /></td>
   </tr>
 </table>
