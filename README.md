@@ -4,8 +4,6 @@
   alt="Hi, I'm Melina 👋 "/>
 </p>
 
-
-
 ---
 
 - :telescope: I’m currently a 42 Paris student, focusing on C-based system programming and concurrency.
@@ -14,19 +12,69 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melina-motylewski/)
 
-
----
 ___
-### My stats :
+## Tech
 
-
-<p align="center">
-  <!-- Statistiques GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=melinaaam&show_icons=true&theme=radical" alt="Stats GitHub" height="180em" style="margin-right: 30px;" />
-
-  <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melinaaam&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em" />
+<p align="left">
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+---
 
+## 🏆 Projets 42
+
+### Completed
+
+- [![42 Project - Philosophers](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/votre_compte_github/philosophers)
+  - Simulation du problème des philosophes (threads, mutex, etc.)
+
+- [![42 Project - Minishell](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/votre_compte_github/minishell)
+  - Shell minimaliste (gestion des processus, parsing, etc.)
+
+### In progress
+
+- [![42 Project - ft_services](https://img.shields.io/badge/ft__services-In%20Progress-blue?style=for-the-badge)](https://github.com/votre_compte_github/ft_services)
+  - Projet de containers Docker et Kubernetes.
+
+- [![42 Project - CPP Modules](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/votre_compte_github/cpp_modules)
+  - Modules d’apprentissage C++ (classes, héritage, templates, etc.)
+
+---
+
+## 💻 Working on:
+
+<p>
+  <!-- macOS -->
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+
+  <!-- Ubuntu -->
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreIdentifiantGitHub&layout=compact&theme=dark"
+    alt="Most Used Languages"
+    width="400px"
+  />
+</p>
 
