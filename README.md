@@ -4,14 +4,10 @@
   alt="Hi, I'm Melina 👋 "/>
 </p>
 
-<!-- Liens vers Gmail & LinkedIn avec icônes -->
-
 <p align="center">
-  <!-- Icône Gmail -->
   <a href="mailto:mmo.melina@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" style="margin-right: 10px;" />
-  </a> </a>
-  <!-- Icône LinkedIn -->
+  </a>
   <a href="https://www.linkedin.com/in/votre-lien-linkedin">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" style="margin-left: 10px;" />
   </a>
@@ -21,24 +17,25 @@
 ___
 
 ### :fire: My stats :fire:
-<table>
-  <tr>
-    <td valign="top"><img width=300 src='https://github-readme-streak-stats.herokuapp.com/?user=Melinaaam&theme=vue-dark&hide_border=true' /></td>
-    <td valign="top"><img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /></td>
-  </tr>
-</table>
-<!--
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=Melinaaam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-**Melinaaam/Melinaaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--GitHub stats-->
+<h1 align="center">
+  <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Github+stats" alt="Typing SVG" />
+  </a>
+  <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
+</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ugozchi&show_icons=true&theme=radical" alt="Ugo's GitHub Stats" height="180em" style="margin-right: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugozchi&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em">
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Contact-->
+<h3 align="center">Let's contribute together!</h3>
+<p align="center">Feel free to submit issues, PRs, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀</p>
+<p align="center">
+  <a href="ugozanchi5@gmail.com">📧 Contact</a>
+</p>
+
