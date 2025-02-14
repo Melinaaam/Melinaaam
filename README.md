@@ -36,7 +36,7 @@ ___
 ### In Progress
 
 [![CPP Modules - In Progress](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/melinaaam/cpp_modules)<br>
-  * *Exploring advanced C++ features (classes, inheritance, templates, etc.)* *
+  *Exploring advanced C++ features (classes, inheritance, templates, etc.)*
 
 
 ### Completed
