@@ -55,8 +55,8 @@ ___
 [![Push Swap - Completed](https://img.shields.io/badge/Push%20Swap-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/push_swap)<br>
   Sorting algorithms optimized for a limited instruction set.
 
-[![Get Next Line - Completed](https://img.shields.io/badge/Get%20Next%20Line-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/get_next_line)
-  A function to read from file descriptors one line at a time.<br>
+[![Get Next Line - Completed](https://img.shields.io/badge/Get%20Next%20Line-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/get_next_line)<br>
+  A function to read from file descriptors one line at a time.
 
 [![ft_printf - Completed](https://img.shields.io/badge/ft__printf-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/ft_printf)<br>
   Reimplementation of `printf` in C.
