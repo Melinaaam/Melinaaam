@@ -33,13 +33,9 @@ ___
 
 ## 🏆 42 Projects
 
-### In Progress
-
 [![CPP Modules - In Progress](https://img.shields.io/badge/CPP%20Modules-In%20Progress-blue?style=for-the-badge)](https://github.com/melinaaam/cpp_modules)<br>
   *Exploring advanced C++ features (classes, inheritance, templates, etc.)*
 
-
-### Completed
 [![Minishell - Completed](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)<br>
  *A minimalist shell with process management, parsing, etc.*
 
