@@ -41,31 +41,31 @@ ___
 
 ### Completed
 [![Minishell - Completed](https://img.shields.io/badge/Minishell-Completed-brightgreen?style=for-the-badge)](https://github.com/Les-Choubidous/Minishell_42)<br>
-  A minimalist shell with process management, parsing, etc.
+ *A minimalist shell with process management, parsing, etc.*
 
 [![Philosophers - Completed](https://img.shields.io/badge/Philosophers-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/philosophers)<br>
-  A simulation of the dining philosophers problem (threads, mutexes, etc.)
+  *A simulation of the dining philosophers problem (threads, mutexes, etc.)*
 
 [![Pipex - Completed](https://img.shields.io/badge/Pipex-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/pipex)<br>
-  A project emulating Unix pipes to chain commands together.
+  *A project emulating Unix pipes to chain commands together.*
 
 [![So Long - Completed](https://img.shields.io/badge/So%20Long-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/so_long)<br>
-  A small 2D game project using a graphics library.
+  *A small 2D game project using a graphics library.*
 
 [![Push Swap - Completed](https://img.shields.io/badge/Push%20Swap-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/push_swap)<br>
-  Sorting algorithms optimized for a limited instruction set.
+  *Sorting algorithms optimized for a limited instruction set.*
 
 [![Get Next Line - Completed](https://img.shields.io/badge/Get%20Next%20Line-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/get_next_line)<br>
-  A function to read from file descriptors one line at a time.
+  *A function to read from file descriptors one line at a time.*
 
 [![ft_printf - Completed](https://img.shields.io/badge/ft__printf-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/ft_printf)<br>
-  Reimplementation of `printf` in C.
+  *Reimplementation of `printf` in C.*
 
 [![Born2beroot - Completed](https://img.shields.io/badge/Born2beroot-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/born2beroot)<br>
-  A system administration project focusing on virtualization and security.
+  *A system administration project focusing on virtualization and security.*
 
 [![Libft - Completed](https://img.shields.io/badge/Libft-Completed-brightgreen?style=for-the-badge)](https://github.com/melinaaam/libft)<br>
-  A custom C library replicating standard functions (libft).
+  *A custom C library replicating standard functions (libft).*
 
 ---
 ## 💻 Working on:
