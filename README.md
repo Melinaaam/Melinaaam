@@ -60,7 +60,3 @@ ___
     width="400px"
   />
 </p>
-
-### 🐍 Snake Game (Historique de commits)
-![Snake animation](https://github.com/Melinaaam/Melinaaam/blob/output/github-contribution-grid-snake.svg)
-
