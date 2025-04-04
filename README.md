@@ -35,7 +35,7 @@ ___
 
 ## 🏆 42 Progress
 
-🔵🔵🔵🔵🔵🔵🟡⚪⚪⚪  70% - Common Core
+🔵🔵🔵🔵🔵🔵🔵🟡⚪⚪  80% - Common Core
 
 
 ---
