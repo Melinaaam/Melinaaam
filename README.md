@@ -4,42 +4,53 @@
 </p>
 
 ---
+# Hi there, I'm Melina 👋
+---
 
-- :telescope: I’m currently a 42 Paris student, focusing on C-based system programming and concurrency.
+- :telescope: I’m currently a student at **42 Paris**, building a strong foundation in C programming, system development, and algorithmic problem solving.  
+- :seedling: I'm learning low-level programming to strengthen my technical understanding, with the goal of applying it later to real-world, practical projects.  
+- :hammer_and_wrench: I’m particularly curious about project architecture, tech innovation, and how technical solutions can meet business needs.  
+- :construction_worker: Currently developing my skills in **C, C++, HTML, CSS, JavaScript, Shell,** and **Unix systems**. Excited to explore higher-level technologies as I grow.  
+- :handshake: Open to collaboration on projects that mix logic, creativity, and human impact!
 
-- :seedling: Exploring low-level problem solving and advanced code optimization techniques.
+---
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melina-motylewski/)
+## 📫 How to reach me
 
-___
-## Tech
-
-<p align="left">
-  <!-- C -->
-  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <!-- Figma -->
-  <img src="https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/melina-motylewski/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="mailto:mmo.melina@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/>
+  </a>
+  <a href="https://melinamotylewski.com">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=internetexplorer&logoColor=white" height="25"/>
+  </a>
 </p>
 
 ---
 
+## ⚙️ Tech Stack
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shell-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a" height="25"/></a>
+</p>
+
+---
 
 ## 🏆 42 Progress
 
-🔵🔵🔵🔵🔵🔵🔵🟡⚪⚪  80% - Common Core
+🔵🔵🔵🔵🔵🔵🔵🟡⚪⚪  80% of the Common Core completed
 
 
 ---
-## 💻 Working on:
+## 💻 Currently working on:
 
 <p>
   <!-- macOS -->
@@ -60,3 +71,9 @@ ___
     width="400px"
   />
 </p>
+
+---
+
+## ✨ About me
+
+_Always learning, always building. Let's connect!_
