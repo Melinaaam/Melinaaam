@@ -8,10 +8,10 @@
 ---
 
 - :telescope: I’m currently a student at **42 Paris**, building a strong foundation in C programming, system development, and algorithmic problem solving.  
-- :seedling: I'm learning low-level programming to strengthen my technical understanding, with the goal of applying it later to real-world, practical projects.  
-- :hammer_and_wrench: I’m particularly curious about project architecture, tech innovation, and how technical solutions can meet business needs.  
-- :construction_worker: Currently developing my skills in **C, C++, HTML, CSS, JavaScript, Shell,** and **Unix systems**. Excited to explore higher-level technologies as I grow.  
-- :handshake: Open to collaboration on projects that mix logic, creativity, and human impact!
+- I'm learning low-level programming to strengthen my technical understanding, with the goal of applying it later to real-world, practical projects.  
+- I’m particularly curious about project architecture, tech innovation, and how technical solutions can meet business needs.  
+- Currently developing my skills in **C, C++, HTML, CSS, JavaScript, Shell,** and **Unix systems**. Excited to explore higher-level technologies as I grow.  
+- Open to collaboration on projects that mix logic, creativity, and human impact!
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 🏆 42 Progress
 
-🔵🔵🔵🔵🔵🔵🔵🟡⚪⚪  80% of the Common Core completed
+🔵🔵🔵🔵🔵🟡  95% of the Common Core completed
 
 
 ---
