@@ -4,10 +4,10 @@
 </p>
 
 ---
-# Hi there, I'm Melina 👋
+# 👋 Hi there, I'm Melina 
 ---
 
-- :telescope: I’m currently a student at **42 Paris**, building a strong foundation in C programming, system development, and algorithmic problem solving.  
+- I’m currently a student at **42 Paris**, building a strong foundation in C programming, system development, and algorithmic problem solving.  
 - I'm learning low-level programming to strengthen my technical understanding, with the goal of applying it later to real-world, practical projects.  
 - I’m particularly curious about project architecture, tech innovation, and how technical solutions can meet business needs.  
 - Currently developing my skills in **C, C++, HTML, CSS, JavaScript, Shell,** and **Unix systems**. Excited to explore higher-level technologies as I grow.  
@@ -40,6 +40,7 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" height="25"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" height="25"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Shell-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a" height="25"/></a>
 </p>
 
 ---
