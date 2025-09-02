@@ -47,7 +47,7 @@
 
 ## 🏆 42 Progress
 
-🔵🔵🔵🔵🔵🟡  95% of the Common Core completed
+🔵🔵🔵🔵🔵🔵  100% of the Common Core completed
 
 
 ---
