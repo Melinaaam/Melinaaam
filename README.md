@@ -7,11 +7,11 @@
 # 👋 Hi there, I'm Melina 
 ---
 
-- I’m currently a student at **42 Paris**, building a strong foundation in C programming, system development, and algorithmic problem solving.  
-- I'm learning low-level programming to strengthen my technical understanding, with the goal of applying it later to real-world, practical projects.  
-- I’m particularly curious about project architecture, tech innovation, and how technical solutions can meet business needs.  
-- Currently developing my skills in **C, C++, HTML, CSS, JavaScript, Shell,** and **Unix systems**. Excited to explore higher-level technologies as I grow.  
-- Open to collaboration on projects that mix logic, creativity, and human impact!
+- I’m a developer in training at **42 Paris**, currently focusing on **Front-end development** and growing into **Full-stack web development**.  
+- I love building **clean, modern user interfaces**, with strong attention to **UI/UX** and product quality.  
+- I enjoy turning ideas into real projects — from **design and component architecture** to **APIs, databases and deployment**.  
+- I’m curious about **project architecture**, tech innovation, and how technical solutions can solve real business needs.  
+- Open to collaboration on projects that mix **logic, creativity, and real user impact**.
 
 ---
 
@@ -33,14 +33,25 @@
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+
+<p >
+  <!-- Core -->
   <a href="#"><img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" height="25"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shell-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a" height="25"/></a>
+
+  <!-- Front-end -->
   <a href="#"><img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" height="25"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" height="25"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" height="25"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Shell-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a" height="25"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a" height="25"/></a>
+
+  <!-- Back-end -->
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" height="25"/></a>
 </p>
 
 ---
